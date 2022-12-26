@@ -1,0 +1,2 @@
+https://samar.pages.dev/*
+  X-Robots-Tag: noindex
